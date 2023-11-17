@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbar{
+  width: 100%;
+  background-color: rgb(10, 71, 121);
+}
+
+
+.class1{
+  height: 40px;
+  width: 100%;
+  background: rgb(29, 29, 76);
+}
+
+.left{
+  background: none;
+  text-decoration: none;
+}
+.left:hover{
+  color:orange;
+}
+
+.xyz{
+  font-size: 20px;
+}
+
+.shade{
+  background-color: rgb(23, 65, 52);
+}
